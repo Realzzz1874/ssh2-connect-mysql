@@ -1,6 +1,6 @@
 {
-  "name": "ssh2-mysql",
-  "version": "1.0.0",
+  "name": "ssh2-connect-mysql",
+  "version": "1.0.1",
   "description": "ssh2 connection mysql",
   "main": "index.js",
   "scripts": {
