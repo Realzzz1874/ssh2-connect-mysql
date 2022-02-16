@@ -1,0 +1,29 @@
+{
+  "name": "ssh2-mysql",
+  "version": "1.0.0",
+  "description": "ssh2 connection mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Realzzz1874/ssh2-mysql.git"
+  },
+  "keywords": [
+    "ssh2",
+    "mysql",
+    "node",
+    "tunnel"
+  ],
+  "author": "realzzz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Realzzz1874/ssh2-mysql/issues"
+  },
+  "homepage": "https://github.com/Realzzz1874/ssh2-mysql#readme",
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "ssh2": "^1.6.0"
+  }
+}
