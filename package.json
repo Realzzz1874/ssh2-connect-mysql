@@ -1,6 +1,6 @@
 {
   "name": "ssh2-connect-mysql",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ssh2 connection mysql",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Realzzz1874/ssh2-mysql.git"
+    "url": "git+https://github.com/Realzzz1874/ssh2-connect-mysql.git"
   },
   "keywords": [
     "ssh2",
@@ -19,9 +19,9 @@
   "author": "realzzz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Realzzz1874/ssh2-mysql/issues"
+    "url": "https://github.com/Realzzz1874/ssh2-connect-mysql/issues"
   },
-  "homepage": "https://github.com/Realzzz1874/ssh2-mysql#readme",
+  "homepage": "https://github.com/Realzzz1874/ssh2-connect-mysql#readme",
   "dependencies": {
     "mysql2": "^2.3.3",
     "ssh2": "^1.6.0"
