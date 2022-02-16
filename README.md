@@ -1,4 +1,4 @@
-# ssh2-mysql
+# ssh2-connect-mysql
 ssh2 connection mysql
 
 为了网络安全起见，数据库和后端服务一般不会直接部署在同一台机器上，且一般也不允许直接用账户+密码的方式直接连接，通常采取的方案是通过 ssh 的方式进行连接。
@@ -12,6 +12,14 @@ ssh2 connection mysql
 3. 得到 mysql 操作句柄
 
 ## 用法
+
+```bash
+yarn add ssh2-connect-mysql
+
+OR
+
+npm i ssh2-connect-mysql
+```
 
 ```javascript
 
