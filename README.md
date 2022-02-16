@@ -45,9 +45,9 @@ ssh2mysql.connect(ssh_conf, db_conf)
       }
       // success
       console.log(res);
-      ssh2mysql.close()
-    })
-  })
+      ssh2mysql.close();
+    });
+  });
 
 ```
 
